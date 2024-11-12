@@ -15,7 +15,7 @@ Display Task List
 
 Add Task (Project Name, Task, Assigned User )
 
-
+![alt text](https://github.com/saigauravi/Task_Management_System/blob/976305348cdd388cca06153db016cb7eecee74e9/Add.png)
 
 Update Task
 
@@ -23,7 +23,7 @@ Update Task
 
 View Task
 
-![alt text] (https://github.com/saigauravi/Task_Management_System/blob/becef9b6eebc330172b7b432be7a5f7ab1f619f5/View.png)
+![alt text](https://github.com/saigauravi/Task_Management_System/blob/becef9b6eebc330172b7b432be7a5f7ab1f619f5/View.png)
 
 
 ## Code scaffolding

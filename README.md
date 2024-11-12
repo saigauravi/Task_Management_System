@@ -9,13 +9,21 @@ Implemented Spring Security for user authentication and authorization.
 
 ![alt text](https://github.com/saigauravi/Task_Management_System/blob/97226646944012f6b120e4bfabb4f82fb04a5583/Security.png)
 
-Display of Task List
+Display Task List
+
+![alt text](https://github.com/saigauravi/Task_Management_System/blob/becef9b6eebc330172b7b432be7a5f7ab1f619f5/TaskList.png)
 
 Add Task (Project Name, Task, Assigned User )
 
+
+
 Update Task
 
+![alt text](https://github.com/saigauravi/Task_Management_System/blob/becef9b6eebc330172b7b432be7a5f7ab1f619f5/Update.png)
+
 View Task
+
+![alt text] (https://github.com/saigauravi/Task_Management_System/blob/becef9b6eebc330172b7b432be7a5f7ab1f619f5/View.png)
 
 
 ## Code scaffolding

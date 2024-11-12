@@ -7,7 +7,7 @@ The project involves building a web-based task management system for teams to co
 
 Implemented Spring Security for user authentication and authorization.
 
-https://github.com/saigauravi/Task_Management_System/blob/97226646944012f6b120e4bfabb4f82fb04a5583/Security.png
+![alt text](https://github.com/saigauravi/Task_Management_System/blob/97226646944012f6b120e4bfabb4f82fb04a5583/Security.png)
 
 Display of Task List
 

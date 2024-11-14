@@ -1,0 +1,22 @@
+<div class="col-md-6 offset-md-3">
+<h2>Add Task</h2>
+
+<form (ngSubmit) = "onSubmit()">
+
+    <div class="form-group">
+        <label>Project:</label>
+        <input type="text" class="form-control" id="projectsName" [(ngModel)]="task.projectsName" name="projectsName">
+    </div>
+
+    <div class="form-group">
+        <label>Task Name</label>
+        <input type="text" class="form-control" id="taskName" [(ngModel)]="task.taskName" name="taskName">
+    </div>
+
+    <div class="form-group">
+        <label>Assigned User</label>
+        <input type="text" class="form-control" id="email" [(ngModel)]="task.email" name="email">
+    </div>
+<button class="btn btn-success" type="submit">Submit</button>
+</form>
+</div>
